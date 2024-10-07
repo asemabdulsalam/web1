@@ -1,0 +1,33 @@
+/* nav bar style */
+nav {
+    background-color: #333;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+nav a {
+    color: rgb(246, 246, 246);
+    margin: 0 15px;
+    text-decoration: none;
+}
+nav a:hover {
+    color: #555;
+}
+.name{background-color: rgb(249, 249, 249);}
+#head{padding-bottom: 20px; padding-top: 60px; padding-left:40px ;}
+/* card styling and specifying places for every thing */
+.card {
+    margin: 20px;
+}
+.form-check {
+    margin-top: 20px;
+}
+#favorite{margin-left: 40px; margin-bottom: 30px;}
+#goals{margin-left: 40px; }
+#section{
+    padding-left: 40px;
+}
+.submit{margin-left: 20px; margin-top: 20px;}
